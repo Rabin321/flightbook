@@ -1,16 +1,4 @@
 # flightbooking
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220621-195718](https://user-images.githubusercontent.com/53074799/174822530-173c7587-d74d-4006-ab0f-0ec30d0e36d0.jpg)
+![Screenshot_20220621-195723](https://user-images.githubusercontent.com/53074799/174822538-0885e25a-7cbf-4b44-8358-23b984027db9.jpg)
